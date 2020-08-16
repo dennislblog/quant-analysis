@@ -39,7 +39,7 @@ a.boxedThumb:hover {
 }
 
 input[type=password]{
-  width: 100%;
+  width: 80%;
   size: 80px;
   padding: 12px 20px;
   margin: 8px 0;
