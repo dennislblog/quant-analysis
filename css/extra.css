@@ -12,7 +12,7 @@ figcaption{
 }
 a.boxedThumb {
   display: inline-block;
-  text-align: center;
+  text-align: center!important;
   padding: 4px;
   line-height: 20px;
   /* border: 1px solid #ddd; */
