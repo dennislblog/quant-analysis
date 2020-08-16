@@ -37,3 +37,16 @@ a.boxedThumb:hover {
   transform: scale(1.05);
   z-index: 5;
 }
+
+input[type=password]{
+  width: 100%;
+  size: 80px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background-color: #16171d;
+}
+
+input[type=password]:focus {
+  border: 3px solid #555;
+}
